@@ -2,9 +2,9 @@
 
 - 🔭 I’m a final-year student, pursuing my Bachelor's in Computer Science and Engineering.
 - 🌱 I’m currently learning Web development and problem-solving using Data Structure and Algorithms.
-- 🤔 I’m looking for help with WEB DEVELOPMENT.
+- 🤝 I’m looking for help with **ReactJs projects**
 -  😄 Pronouns: She/Her
-  - 👯 I’m looking to collaborate on WEB DEVELOPMENT.
+- 📄 Know about my experiences <!-- https://drive.google.com/file/d/145rAsRRvXQXQC-yYPWwE9bD5Pz8jAuIZ/view?usp=sharin -->
 - ## 🛠️ Skills
 
   ### Languages
@@ -13,7 +13,7 @@
   ![C++](https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=cpp&logoColor=F7DF1E)
   ![HTML](https://img.shields.io/badge/HTML-3178C6?style=for-the-badge&logo=html&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-28B6F6?style=for-the-badge&logo=css&logoColor=white)
-
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 <!--   ## 📈 Stats -->
 <!-- 
