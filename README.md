@@ -3,7 +3,6 @@
 - 🔭 I’m a final-year student, pursuing my Bachelor's in Computer Science and Engineering.
 - 🌱 I’m currently learning Web development and problem-solving using Data Structure and Algorithms.
 - 🤝 I’m looking for help with **ReactJs projects**
--  😄 Pronouns: She/Her
 - 📄 Know about my experiences <!-- https://drive.google.com/file/d/145rAsRRvXQXQC-yYPWwE9bD5Pz8jAuIZ/view?usp=sharin -->
 - ## 🛠️ Skills
 
