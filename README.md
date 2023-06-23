@@ -1,23 +1,31 @@
-<h1 align="center">Hi 👋, I'm Pranjal Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Pranjal.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjiz&label=Profile%20views&color=0e75b6&style=flat" alt="pranjiz" /> </p>
+- 🔭 I’m a final-year student, pursuing my Bachelor's in Computer Science and Engineering.
+- 🌱 I’m currently learning Web development and problem-solving using Data Structure and Algorithms.
+- 🤔 I’m looking for help with WEB DEVELOPMENT.
+-  😄 Pronouns: She/Her
+  - 👯 I’m looking to collaborate on WEB DEVELOPMENT.
+- ## 🛠️ Skills
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjiz" alt="pranjiz" /></a> </p>
+  ### Languages
 
-- 📫 How to reach me **pranjalsingh2902@gmail.com**
+  ![C](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-323330?style=for-the-badge&logo=cpp&logoColor=F7DF1E)
+  ![HTML](https://img.shields.io/badge/HTML-3178C6?style=for-the-badge&logo=html&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-28B6F6?style=for-the-badge&logo=css&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pranjalsh29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranjalsh29" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/19btcse25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="19btcse25" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<!--   ## 📈 Stats -->
+<!-- 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=pranjiz&show_icons=true&hide_border=true" alt="Pranjal Singh's GitHub Stats">
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjiz&show_icons=true&locale=en&layout=compact" alt="pranjiz" /></p>
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=pranjiz.pranjiz" alt="visitors">
+</div>
+ -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjiz&show_icons=true&locale=en" alt="pranjiz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranjiz&" alt="pranjiz" /></p>
+- 📫 How to reach me:
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pranjal-singh-b1512925a/)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/pranjiz)
