@@ -1,9 +1,8 @@
 ### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Pranjal.
 
-- 🔭 I’m a final-year student, pursuing my Bachelor's in Computer Science and Engineering.
-- 🌱 I’m currently learning Web development and problem-solving using Data Structure and Algorithms.
-- 🤝 I’m looking for help with **ReactJs projects**
-- 📄 Know about my experiences <!-- https://drive.google.com/file/d/145rAsRRvXQXQC-yYPWwE9bD5Pz8jAuIZ/view?usp=sharin -->
+- 🔭 I'm a recent Computer Science Engineering graduate from SUIIT (May 2023, 8.35 CGPA). I'm passionate about the dynamic world of web development, gained knowledge through coursework.
+- 🌱 I'm actively expanding my knowledge in both frontend and backend technologies, developing new skills, and nurturing my passion for problem-solving.
+- 📄 Know about my experience https://drive.google.com/file/d/1IHl64x0g7qIDBzZ8MXbN1LIfVwTb2ZoS/view?usp=sharing
 - ## 🛠️ Skills
 
   ### Languages
